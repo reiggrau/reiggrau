@@ -1,4 +1,4 @@
-# Hello World! I'm reiggrau!
+# Hello, I'm reiggrau!
 
 <h4>My full name is Guillem Reig Grau, and I'm a Full Stack Web Developer.</h4>
 <h4>I've liked computers and videogames since I was a child, and I've been the default 'IT guy' for family and friends for years.</h4>
