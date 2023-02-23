@@ -1,6 +1,6 @@
 # Hello World! I'm reiggrau!
 
-<h4>My full name is Guillem Reig Grau, and I'm a full stack web developer.</h4>
+<h4>My full name is Guillem Reig Grau, and I'm a Full Stack Web Developer.</h4>
 <h4>I've liked computers and videogames since I was a child, and I've been the default 'IT guy' for family and friends for years.</h4>
 <h4>I like making clean, efficient and easy to understand code and challenge myself in Codewars every now and then.</h4>
 <h4>Before becoming a developer I was an architectural engineer and a project manager.</h4>
