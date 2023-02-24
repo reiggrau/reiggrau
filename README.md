@@ -34,11 +34,7 @@
 </p>
 
   
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=reiggrau&" alt="reiggrau" /></p>
-<p></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="reiggrau" /></p>
-
-</div>
+<p width=100%><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=reiggrau&" alt="reiggrau" /><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="reiggrau" /></p>
 
 
 
