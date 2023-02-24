@@ -1,4 +1,6 @@
-# Hi, I'm reiggrau!
+<img width=100% border=5px src="https://wallpaperaccess.com/full/4686795.jpg"></img>
+
+# Hi there 👋, I'm reiggrau!
 
 <h4>My full name is Guillem Reig Grau, and I'm a Full Stack Web Developer.</h4>
 <h4>I've liked computers and videogames since I was a child, and I've been the default 'IT guy' for family and friends for years.</h4>
@@ -36,7 +38,7 @@
 <p></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="reiggrau" /></p>
 
-
+</div>
 
 
 
