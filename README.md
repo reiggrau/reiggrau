@@ -34,7 +34,10 @@
 </p>
 
   
-<div width=100%><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=reiggrau&" alt="reiggrau" /><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="reiggrau" /></div>
+<div width=100%>
+<img align="left" height=200px src="https://github-readme-streak-stats.herokuapp.com/?user=reiggrau&" alt="reiggrau" />
+<img align="left" height=200px src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="reiggrau" />
+</div>
 
 
 
