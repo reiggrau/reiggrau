@@ -1,11 +1,15 @@
+<h1 align="center">Hi there 👋, I'm reiggrau!</h1>
+<h3 align="center">An intrepid developer and avid videogame modder</h3>
+
 <img width=100% src="https://wallpaperaccess.com/full/4686795.jpg"></img>
 
-# Hi there 👋, I'm reiggrau!
+<h3></h3>
 
-<h4>My full name is Guillem Reig Grau, and I'm a Full Stack Web Developer.</h4>
+<h4>My full name is Guillem Reig Grau, and I'm a catalan Full Stack Web Developer living in Berlin.</h4>
 <h4>I've liked computers and videogames since I was a child, and I've been the default 'IT guy' for family and friends for years.</h4>
 <h4>I like making clean, efficient and easy to understand code and challenge myself in Codewars every now and then.</h4>
 <h4>Before becoming a developer I was an architectural engineer and a project manager.</h4>
+
 <h4></h4>
 
 -   🔭 I’m currently working on **my Portfolio page** in my spare time
