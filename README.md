@@ -1,4 +1,4 @@
-<img width=100% border=5px src="https://wallpaperaccess.com/full/4686795.jpg"></img>
+<img width=100% src="https://wallpaperaccess.com/full/4686795.jpg"></img>
 
 # Hi there 👋, I'm reiggrau!
 
