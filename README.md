@@ -24,7 +24,7 @@
 
 -   JavaScript, HTML, CSS, TypeScript, jQuery, Vue, React, Redux, Node, Express, PostgreSQL, AWS, Jest, Photoshop, Linux
   
-<h3>Currently learnig:</h3>
+<h3>Currently learning:</h3>
 
 <img src="https://skillicons.dev/icons?i=nuxtjs,nextjs,firebase,regex,java,py" alt="aws"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
 
