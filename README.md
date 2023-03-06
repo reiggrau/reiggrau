@@ -35,7 +35,7 @@
 <h3>Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/reig-grau" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guillem-reig" height="40" width="50" /></a>
-<a href="https://www.codewars.com/users/guillemreig" target="_blank" rel="noopener noreferrer"><img align="center" src="https://user-images.githubusercontent.com/85371429/217860756-2055b324-dd73-4f4a-97d2-f479c1be9c36.svg" alt="guillem-reig" height="40" width="40" /></a>
+<a href="https://www.codewars.com/users/reiggrau" target="_blank" rel="noopener noreferrer"><img align="center" src="https://user-images.githubusercontent.com/85371429/217860756-2055b324-dd73-4f4a-97d2-f479c1be9c36.svg" alt="guillem-reig" height="40" width="40" /></a>
 </p>
   
 <img src="https://www.codewars.com/users/reiggrau/badges/small" alt="/"/>
