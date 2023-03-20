@@ -40,6 +40,12 @@
   
 <img src="https://www.codewars.com/users/reiggrau/badges/small" alt="/"/>
 
+<h3>Contact:</h3>
+<ul>
+<li>guillemreiggrau@gmail.com</li>
+<li>+34 653 58 66 26</li>
+</ul>
+
 ##
   
 <div width=100%>
