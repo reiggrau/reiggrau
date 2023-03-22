@@ -38,7 +38,7 @@
 <a href="https://www.codewars.com/users/reiggrau" target="_blank" rel="noopener noreferrer"><img align="center" src="https://user-images.githubusercontent.com/85371429/217860756-2055b324-dd73-4f4a-97d2-f479c1be9c36.svg" alt="guillem-reig" height="40" width="40" /></a>
 </p>
   
-<img src="https://www.codewars.com/users/reiggrau/badges/small" alt="/"/>
+<a href="https://www.codewars.com/users/reiggrau" target="_blank" rel="noopener noreferrer"><img src="https://www.codewars.com/users/reiggrau/badges/small" alt="/"/></a>
 
 <h3>Contact:</h3>
 <ul>
