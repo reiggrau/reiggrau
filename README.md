@@ -8,14 +8,14 @@
 <h4>My full name is Guillem Reig Grau, and I'm a catalan Full Stack Web Developer living in Berlin.</h4>
 <h4>I've liked computers and videogames since I was a child, and I've been the default 'IT guy' for family and friends for years.</h4>
 <h4>I like making clean, efficient and easy to understand code and challenge myself in Codewars every now and then.</h4>
-<h4>Before becoming a developer I was an architectural engineer and a project manager.</h4>
+<h4>Before becoming a developer I was a Building Engineer and a Project Manager.</h4>
 
 <h4></h4>
 
--   🔭 I’m currently working on **my Portfolio page** in my spare time
--   🌱 I’m currently learning **TypeScript, Next and Firebase**
+-   🔭 I’m currently working at **NTT Data** and on **my Portfolio page** in my spare time
+-   🌱 I’m currently learning **Pixi.js, Python and AI**
 -   📝 Every time I finish a project I explain it here as well as on www.linkedin.com/in/reig-grau
--   💬 Ask me about **JavaScript, React.js, Vue.js and PostgreSQL**
+-   💬 Ask me anything about **JavaScript, SvelteKit and PostgreSQL**
 -   📫 How to reach me **guillemreiggrau@gmail.com**, or just send me a message on linkedin
 
 ##
