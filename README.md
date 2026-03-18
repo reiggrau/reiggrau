@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋, I'm reiggrau!</h1>
-<h3 align="center">An intrepid developer and avid videogame modder</h3>
+<h1 align="center">Hi, I'm ReigGrau! 👋</h1>
+<h3 align="center">And I'm a Full Stack Web App Developer specialized in building AI-powered applications from idea to product.</h3>
 
 <img width=100% src="https://wallpaperaccess.com/full/4686795.jpg"></img>
 
@@ -12,11 +12,19 @@
 
 <h4></h4>
 
--   🔭 I’m currently working at **NTT Data** and on **my Portfolio page** in my spare time
--   🌱 I’m currently learning **Pixi.js, Python and AI**
--   📝 Every time I finish a project I explain it here as well as on www.linkedin.com/in/reig-grau
--   💬 Ask me anything about **JavaScript, SvelteKit and PostgreSQL**
--   📫 How to reach me **guillemreiggrau@gmail.com**, or just send me a message on linkedin
+- 💼 I’m currently working in the department of **Artificial Intelligence & Smart Robotics** at NTT Data Barcelona.
+
+- 💻 I spent my first 2 years as a developer in Berlin, attending at **SPICED Academy** and then working at **On Promise Cloud.**
+
+- 🏆 I presented my and NTT Data's projects at Barcelona's **Mobile World Congress 2025**, Madrid's **AWS Summit 2025**.
+
+- 🤝 I also had the honor to pitch our work to the **President de la Generalitat de Catalunya** and **Radio Nacional de España**.
+
+- 💬 Ask me about **LLMs**, **RAG**, **Agentic AI** & **OpenAI Realtime API** or **Three.js** and 3D-powered apps.
+
+- 📫 How to reach me: **guillemreiggrau@gmail.com**
+
+- 💡 Extra info: I was an **Architect/Engineer** PM before becoming a Developer, and I love technology, history, vernacular architecture & modding videogames (this is where it began...)**
 
 ##
 
